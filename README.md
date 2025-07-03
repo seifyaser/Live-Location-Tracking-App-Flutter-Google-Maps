@@ -7,8 +7,9 @@ A Flutter-based mobile application that provides real-time location tracking wit
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="Screenshots/Screenshot_1.png" width="300px" alt="Screenshot 1">
-  <img src="Screenshots/Screenshot_2.png" width="300px" alt="Screenshot 2">
+  <img src="Screenshots/Screenshot_1.jpg" width="300px" alt="Screenshot 1">
+    <span style="display:inline-block; width: 60px;"></span>
+  <img src="Screenshots/Screenshot_2.jpg" width="300px" alt="Screenshot 2">
 </p>
 
 ## 🚀 Features
